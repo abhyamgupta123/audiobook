@@ -12,4 +12,10 @@
 <!--    loginActivity colors-->
     <color name="loginBackground">#116AFF</color>
 
+<!--    registerUserActivityColors-->
+    <color name="registerUserBackground">#116AFF</color>
+
+<!--    catagory fragment colors-->
+
+    <color name="categoryFragmentBackground">#341931</color>
 </resources>
