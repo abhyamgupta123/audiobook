@@ -16,6 +16,11 @@
     <color name="registerUserBackground">#116AFF</color>
 
 <!--    catagory fragment colors-->
-
     <color name="categoryFragmentBackground">#341931</color>
+
+<!--    main activity colors-->
+    <color name="mainActivityBottomNavigationBackground">#000000</color>
+
+
+    <color name="mainActivityBottomNavigation_iconsBackgroundColor">#EE0979</color>
 </resources>
